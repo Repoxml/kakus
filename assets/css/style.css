@@ -1476,7 +1476,8 @@ General Styles - Owlcarousel
 
 /* Portfolio Page Header */
 .portfolio-page-header {
-  background-position: 50% 50%;
+width: 100%;
+  background-position: left;
 }
 
 .portfolio-page-header:before {
