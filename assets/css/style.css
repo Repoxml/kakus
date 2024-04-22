@@ -156,7 +156,7 @@ a,
 
 .main {
   position: relative;
-  background-color: #fff;
+  background-color: #989897;/*michal*/
   z-index: 1;
 }
 
@@ -248,7 +248,7 @@ a,
 }
 
 .bg-dark {
-  background: #111;
+  background: #1A1D23; /*michal*/
 }
 
 .bg-dark-30:before {
@@ -854,7 +854,7 @@ a,
 	Typography
 --------------------------------------------------------------*/
 a {
-  color: #111;
+  color: #111;   /*michal*/
 }
 
 a:hover, a:focus {
@@ -980,7 +980,7 @@ blockquote {
 
 /*  Special Portfolio Page  */
 .special-portfolio-header-title {
-  border: 1px solid rgba(255, 255, 255, 0.7);
+  border: 1px solid #394050;
   font-size: 50px;
   padding: 40px 0px;
   letter-spacing: 8px;
@@ -1239,7 +1239,7 @@ General Styles - Owlcarousel
 	Navbar
 --------------------------------------------------------------*/
 .navbar-custom {
-  background-color: rgba(10, 10, 10, 0.9);
+  background-color: #1A1D23;  /*michal*/
   border: 0;
   border-radius: 0;
   z-index: 1000;
@@ -1477,7 +1477,7 @@ General Styles - Owlcarousel
 /* Portfolio Page Header */
 .portfolio-page-header {
 width: 100%;
-  background-position: left;
+  background-position: center;
 }
 
 .portfolio-page-header:before {
